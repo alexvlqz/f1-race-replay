@@ -99,6 +99,10 @@ f1-race-replay/
 
 ## Contributing
 
+There have been serveral contributions from the community that have helped enhance this project. I have added a [contributors.md](./contributors.md) file to acknowledge those who have contributed features and improvements.
+
+If you would like to contribute, feel free to:
+
 - Open pull requests for UI improvements or new features.
 - Report issues on GitHub.
 
